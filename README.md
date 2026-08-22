@@ -1,4 +1,4 @@
- #Traffic Light
+ # Traffic Light
 Python
 
 How it works
