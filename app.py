@@ -11,3 +11,5 @@ elif time < 50:
 
 elif time <= 60:
     print("GREEN")
+
+lat
