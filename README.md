@@ -7,9 +7,9 @@ How it works
 Requirements:
 Python3
 
- #How to Run
+ # How to Run
  
- #Terminal 
+ # Terminal 
  /Bash
 
  - git clone https://github.com/iceberga91-pixel/TrafficLight.git
