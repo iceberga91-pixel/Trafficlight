@@ -10,7 +10,7 @@ Python3
 How to Run
 #Terminal #Bash
 
--git clone https://github.com/iceberga91-pixel/TraffigLight.git
+-git clone https://github.com/iceberga91-pixel/TrafficLight.git
 -cd traffiglight
 -python3 app.py
 -It should give you a promp asking how many minutes have passed
