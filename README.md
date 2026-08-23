@@ -13,7 +13,7 @@ Python3
  /Bash
 
  - git clone https://github.com/iceberga91-pixel/TrafficLight.git
- - cd traffiglight
+ - cd trafficlight
  - python3 app.py
  - It should give you a promp asking how many minutes have passed
  - Insert seconds.
